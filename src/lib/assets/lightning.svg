@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="72px" viewBox="0 0 48 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Path</title>
+    <desc>Created with Sketch.</desc>
+    <g id="App" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Site-One" transform="translate(-876.000000, -1534.000000)" fill="#E0B56B" fill-rule="nonzero" stroke="#FFFFFF" stroke-width="4">
+            <g id="Steps" transform="translate(217.000000, 1465.000000)">
+                <g id="Icon---Unexpected" transform="translate(632.000000, 35.000000)">
+                    <path d="M71.491705,62.7988265 L51.9882835,101.40764 L51.9306828,101.513601 C51.0237696,103.06831 49.3796104,104 47.6132813,104 C44.4061644,104 42.0294223,101.001816 42.7527689,97.8785476 L48.5040912,72.125 L34.8632813,72.125 C31.8418665,72.125 29.5134019,69.4669354 29.9098999,66.4939708 L33.100437,40.572008 C33.4339338,38.1041315 35.5572134,36.25 38.0507813,36.25 L54.3867188,36.25 C57.667682,36.25 60.0420148,39.3608156 59.1946361,42.5778148 L55.4434508,55.375 L67.1367188,55.375 C70.9454559,55.375 73.335211,59.4832695 71.4917091,62.7988184 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
