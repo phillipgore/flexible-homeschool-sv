@@ -26,7 +26,7 @@
 	<div class="container-lg">
 		<div class="row p-sm-r-12 p-lg-r-0 p-xl-h-0 m-xl-r-neg-6">
 			<div class="col-tn-7of9 col-sm-5of12 p-tn-l-9 p-xs-l-18 p-lg-l-0">
-				<a class="logo" href="{base}/home">
+				<a class="logo" href="{base}/">
 					<i class="fss-logo"></i> <span class=""> Flexible Homeschool</span>
 				</a>
 			</div>
