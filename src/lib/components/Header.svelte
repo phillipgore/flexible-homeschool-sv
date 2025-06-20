@@ -34,9 +34,9 @@
 				<ul>
 					<li><a href="{base}/">Home</a></li>
 					<li><a href="{base}/application">App</a></li>
-					<li><a href="/#price">Price</a></li>
                     <li><a href="{base}/tutorials">Tuts</a></li>
                     <li><a href="{base}/faq">FAQ</a></li>
+                    <li><a href="{base}/contact">Contact</a></li>
 					<!-- <li><a href="{base}/new">New</a></li> -->
 					<li>
 						<a target="_blank" href="https://app.aflexiblehomeschool.com/sign-in" class="m-tn-r-6 m-xs-r-12 m-sm-r-0">
@@ -67,9 +67,9 @@
 		<ul>
 			<li><a onclick={() => toggleMenu()} href="{base}/">Home</a></li>
 			<li><a onclick={() => toggleMenu()} href="{base}/application">App</a></li>
-			<li><a onclick={() => toggleMenu()} href="/#price">Price</a></li>
 			<li><a onclick={() => toggleMenu()} href="{base}/tutorials">Tuts</a></li>
 			<li><a onclick={() => toggleMenu()} href="{base}/faq">FAQ</a></li>
+			<li><a onclick={() => toggleMenu()} href="{base}/contact">Contact</a></li>
 			<!-- <li><a href="{base}/new">New</a></li> -->
 			<li>
 				<a target="_blank" href="https://app.aflexiblehomeschool.com/sign-in" class="m-tn-r-6 m-xs-r-12 m-sm-r-0">
