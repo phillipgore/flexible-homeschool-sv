@@ -33,22 +33,23 @@
 			<nav class="dis-tn-none dis-md-block | col-tn-2of9 col-sm-7of12 txt-tn-right">
 				<ul>
 					<li><a href="{base}/">Home</a></li>
-					<li><a href="{base}/application">App</a></li>
+					<!-- <li><a href="{base}/application">App</a></li> -->
                     <li><a href="{base}/tutorials">Tutorials</a></li>
                     <li><a href="{base}/faq">FAQ</a></li>
                     <!-- <li><a href="{base}/contact">Contact</a></li> -->
 					<!-- <li><a href="{base}/new">New</a></li> -->
+					 <span class="cl-white m-tn-l-3">|</span>
 					<li>
 						<a target="_blank" href="https://app.aflexiblehomeschool.com/sign-in" class="m-tn-r-6 m-xs-r-12 m-sm-r-0">
 							Sign In
 						</a>
 					</li>
-					<span class="cl-white m-tn-l-3">|</span>
+					<!-- <span class="cl-white m-tn-l-3">|</span>
 					<li>
 						<a target="_blank" href="https://app.aflexiblehomeschool.com/" class="m-tn-r-6 m-xs-r-12 m-sm-r-0">
 							Sign Up
 						</a>
-					</li>
+					</li> -->
 				</ul>
 			</nav>
 			<a bind:this={btnNavSlide} onclick={() => toggleMenu()} class="btn-nav-slide dis-tn-block dis-md-none" href="#" aria-label="Navigation Reveal">
@@ -66,7 +67,7 @@
 	<nav class="drop-nav dis-tn-block dis-md-none" transition:slide="{{duration: 300}}">
 		<ul>
 			<li><a onclick={() => toggleMenu()} href="{base}/">Home</a></li>
-			<li><a onclick={() => toggleMenu()} href="{base}/application">App</a></li>
+			<!-- <li><a onclick={() => toggleMenu()} href="{base}/application">App</a></li> -->
 			<li><a onclick={() => toggleMenu()} href="{base}/tutorials">Tutorials</a></li>
 			<li><a onclick={() => toggleMenu()} href="{base}/faq">FAQ</a></li>
 			<!-- <li><a onclick={() => toggleMenu()} href="{base}/contact">Contact</a></li> -->
@@ -76,11 +77,11 @@
 					Sign In
 				</a>
 			</li>
-			<li>
+			<!-- <li>
 				<a target="_blank" href="https://app.aflexiblehomeschool.com" class="m-tn-r-6 m-xs-r-12 m-sm-r-0">
 					Sign Up
 				</a>
-			</li>
+			</li> -->
 		</ul>
 	</nav>
 {/if}
