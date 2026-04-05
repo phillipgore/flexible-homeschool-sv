@@ -51,7 +51,7 @@
 
 		<div class="col-tn-1of1 | col-xs-2of3 off-xs-1of3 | col-sm-1of2 off-sm-1of2 | col-md-1of3 off-md-0 p-md-rl-18 | p-lg-rl-36">
 			<h3 id="progress" class="txt-tn-center">How can we help?</h3>
-			<p class="txt-tn-justify">Click the button above to email support for help if you are having a problem with the app. Please make sure you check the <a class="cl-success" href="{base}/tutorials">tutorials</a> and the <a class="cl-success" href="{base}/faq">FAQ</a> first.</p>
+			<p class="txt-tn-justify">Click the button below to email support for help if you are having a problem with the app. Please make sure you check the <a class="cl-success" href="{base}/tutorials">tutorials</a> and the <a class="cl-success" href="{base}/faq">FAQ</a> first.</p>
 			<a class="btn bg-success txt-tn-center dis-tn-block m-tn-tb-36" href="mailto:support@aflexiblehomeschool.com">Email</a>
 		</div>
 
