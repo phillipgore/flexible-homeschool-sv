@@ -44,7 +44,7 @@
                 <a class="btn bg-success txt-tn-center" href="mailto:support@aflexiblehomeschool.com">Support Email</a>
             </div>
             <p class="txt-tn-justify">
-                Click the button above to email support for help if you are having a problem with the app. Please make sure you check the <a class="cl-success" href="{base}/tutorials">tutorials</a> first.
+                Click the button above to email support for help if you are having a problem with the app. Please make sure you check the <a class="cl-success" href="{base}/tutorials">tutorials</a> and the <a class="cl-success" href="{base}/faq">FAQ</a> first.
             </p>
         </div>
     </div>
