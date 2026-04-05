@@ -34,19 +34,26 @@
 
 <HomeShutdownSplash></HomeShutdownSplash>
 
-<!-- Contact Info -->
-<div class="container-md m-tn-b-72 m-tn-t-36 m-md-t-54">
-    <div class="row m-tn-b-72 p-tn-rl-9 p-tn-b-72 p-xs-rl-18">
-        <!-- <h1 class="h1-lg txt-tn-center m-tn-b-15">Thank you to everyone who used the app. If you need help, support will be minimal but we will do what we can.</h1> -->
-        <div class="p-tn-b-72 p-md-r-36">
-            <div class="txt-tn-center m-tn-tb-36">
-                <div class="m-tn-b-27"><i class="fss-support cl-gray-dark fnt-size-tn-80"></i></div>
-                <a class="btn bg-success txt-tn-center" href="mailto:support@aflexiblehomeschool.com">Support Email</a>
-            </div>
-            <p class="txt-tn-justify">
-                Click the button above to email support for help if you are having a problem with the app. Please make sure you check the <a class="cl-success" href="{base}/tutorials">tutorials</a> and the <a class="cl-success" href="{base}/faq">FAQ</a> first.
-            </p>
-        </div>
-    </div>
+<div class="container-lg p-tn-h-9 p-xs-h-18 p-tn-v-36 p-md-v-72 p-lg-h-0">
+	<div class="row m-md-rl-neg-18 m-lg-rl-neg-36">
+
+		<div class="col-tn-1of1 | col-xs-2of3 | col-sm-1of2 off-sm-0 | col-md-1of3 p-md-rl-18 | p-lg-rl-36">
+			<h3 id="ready" class="txt-tn-center">Need to figure it out?</h3>
+			<p class="txt-tn-justify">Refresh yourself on the planning, tracking, reporting and more. Everything from the interface to billing and resetting xsyour password can be found here.</p>
+			<a class="btn bg-success txt-tn-center dis-tn-block m-tn-tb-36" href="{base}/tutorials">Tutorials</a>
+		</div>
+
+		<div class="col-tn-1of1 | col-xs-2of3 off-xs-1of6 | col-sm-1of2 off-sm-1of4 | col-md-1of3 off-md-0 p-md-rl-18 | p-lg-rl-36">
+			<h3 id="unexpected" class="txt-tn-center">Have you got questions?</h3>
+			<p class="txt-tn-justify">Over the years we have been asked a lot of different questions. This is a repository of the answers to the questions we have been asked the most.</p>
+			<a class="btn bg-success txt-tn-center dis-tn-block m-tn-tb-36" href="{base}/faq">FAQ</a>
+		</div>
+
+		<div class="col-tn-1of1 | col-xs-2of3 off-xs-1of3 | col-sm-1of2 off-sm-1of2 | col-md-1of3 off-md-0 p-md-rl-18 | p-lg-rl-36">
+			<h3 id="progress" class="txt-tn-center">How can we help?</h3>
+			<p class="txt-tn-justify">Click the button above to email support for help if you are having a problem with the app. Please make sure you check the <a class="cl-success" href="{base}/tutorials">tutorials</a> and the <a class="cl-success" href="{base}/faq">FAQ</a> first.</p>
+			<a class="btn bg-success txt-tn-center dis-tn-block m-tn-tb-36" href="mailto:support@aflexiblehomeschool.com">Email</a>
+		</div>
+
+	</div>
 </div>
-<!-- /Contact Info -->
