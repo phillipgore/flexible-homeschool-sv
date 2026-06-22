@@ -160,7 +160,7 @@
     <div id="grades" class="bd-top-gray-1">
         <div class="container-md p-tn-h-9 p-xs-h-18 p-tn-v-36 p-md-v-72 p-lg-h-0">
             <h2 class="fnt-weight-500 m-tn-t-0 m-tn-b-9">Can I assign grades?</h2>
-            <p>No. The app does not currently record and calculate grades. That is a feature (along with transcripts) that we are considering for a future version of the app. Please let us know if you would like to see this feature added to the app. <a class="cl-success" href="mailto:support@aflexiblehomeschool.com">support@aflexiblehomeschool.com</a></p>
+            <p>No. The app does not currently record and calculate grades. That is a feature (along with transcripts) that we are considering for a future version of the app. Please let us know if you would like to see this feature added to the app. <a class="cl-success" href="mailto:fhasupport@icloud.com">fhasupport@icloud.com</a></p>
             <div class="clearfix"><a class="btn btn-sm bg-success fl-tn-right" href="#questions">Back To The Top</a></div>
         </div>
     </div>

@@ -88,7 +88,7 @@
                     {/if}
                 {/each}
                 
-                <a class="btn bg-success txt-tn-center m-tn-t-36" href="mailto:support@aflexiblehomeschool.com">Email Support</a>
+                <a class="btn bg-success txt-tn-center m-tn-t-36" href="mailto:fhasupport@icloud.com">Email Support</a>
             </div>
         </asside>
         <!-- /Sidebar -->
@@ -160,7 +160,7 @@
         <!-- /Main -->
          
         <div class="txt-tn-center">
-            <a class="dis-md-none btn bg-success txt-tn-center m-tn-t-36" href="mailto:support@aflexiblehomeschool.com">Email Support</a>
+            <a class="dis-md-none btn bg-success txt-tn-center m-tn-t-36" href="mailto:fhasupport@icloud.com">Email Support</a>
         </div>
     </div>
 </div>

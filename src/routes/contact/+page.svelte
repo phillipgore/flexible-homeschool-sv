@@ -21,7 +21,7 @@
         <div class="col-md-1of2 p-tn-b-72 p-md-r-36">
             <div class="txt-tn-center m-tn-tb-36">
                 <div class="m-tn-b-27"><i class="fss-support cl-gray-dark fnt-size-tn-80"></i></div>
-                <a class="btn bg-success txt-tn-center" href="mailto:support@aflexiblehomeschool.com">Support Email</a>
+                <a class="btn bg-success txt-tn-center" href="mailto:fhasupport@icloud.com">Support Email</a>
             </div>
             <p class="txt-tn-justify">
                 Click the button above to email support for help if you are having a problem with the app. Please make sure you check the <a class="cl-success" href="{base}/tutorials">tutorials</a> first.
@@ -30,7 +30,7 @@
         <div class="col-md-1of2 p-tn-b-72 p-md-l-36 m-tn-b-72">
             <div class="txt-tn-center m-tn-tb-36">
                 <div class="m-tn-b-27"><i class="fss-actions cl-gray-dark fnt-size-tn-80"></i></div>
-                <a class="btn bg-success txt-tn-center" href="mailto:phillip@aflexiblehomeschool.com">Admin Email</a>
+                <a class="btn bg-success txt-tn-center" href="mailto:fhasupport@icloud.com">Admin Email</a>
             </div>
             <p class="txt-tn-justify">Click the button above to email us with opportunities to partner with you or to help us correct errors in this website.</p>
         </div>
